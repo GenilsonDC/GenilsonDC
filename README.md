@@ -12,7 +12,7 @@
 
 - 🐱‍💻 I’m looking to collaborate on cloud computing, machine Learning, mobile apps, multi platform apps.
 
-- ##### LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
+- #### LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
 
 - 📫  Discord: 👑 Geeh#3055, E-mail: genilsondocarmosilva@gmail.com / hotmail.com
 
