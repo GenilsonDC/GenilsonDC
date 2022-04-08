@@ -10,6 +10,6 @@
 
 - 🐱‍💻 I’m looking to collaborate on web pages, cloud computing, machine Learning, mobile apps, multi platform apps.
 
-- ##### LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
+- ##### 🌐 LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
 
 - 👾  Discord: 👑 Geeh#3055
