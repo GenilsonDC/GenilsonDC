@@ -1,4 +1,4 @@
-#  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEHtTqFZjOBxw/profile-displayphoto-shrink_800_800/0/1649426230384?e=1654732800&v=beta&t=X4tKI1mxMUBmJyxjGGdAELRCVvY6OgnzUVmxxDyl6LM" alt="imagem do perfil" style="zoom:15%;" />
+# Genilson do Carmo.
 
 ### Thanks for visiting my Git page. 🤠
 
@@ -13,4 +13,3 @@
 - ##### LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
 
 - 👾  Discord: 👑 Geeh#3055
-
