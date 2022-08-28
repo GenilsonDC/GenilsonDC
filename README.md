@@ -12,4 +12,5 @@
 
 - ##### 🌐 LinkedIn: https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/
 
+GCP Badges: https://www.cloudskillsboost.google/public_profiles/3bc66987-f366-4b24-9d43-d7520ca7788
 - 👾  Discord: 👑 Geeh#3055
