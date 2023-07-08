@@ -18,4 +18,4 @@
 
 👾  Discord: 👑 Geeh#3055
 
-![](https://github.com/GenilsonDC/GenilsonDC/blob/main/logo.png?raw=true)
+<img src="https://github.com/GenilsonDC/GenilsonDC/blob/main/roundLogoGreen.png?raw=true" style="zoom:25%;" />
