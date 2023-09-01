@@ -12,15 +12,4 @@ Learning  **Python, Swift, Flutter, React Native, JavaScript, TypeScript, Node.J
 
 
 
-[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)       [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/)     
-
-
-
-
-
-
-
-
-
-![Logo](Documentation/roundBlueLogo2.png)
-
+[![linkedin](Documentation/linkedin_icon.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/)       [![instagrm](Documentation/instag.png)](https://www.instagram.com/genilson_carmo/) 
