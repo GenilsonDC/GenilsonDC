@@ -8,7 +8,7 @@
 
 
 
-[![linkedin](Documentation/gcp.png)](https://www.cloudskillsboost.google/public_profiles/3bc66987-f366-4b24-9d43-d7520ca7788/) [**GCP** Badges](https://www.cloudskillsboost.google/public_profiles/3bc66987-f366-4b24-9d43-d7520ca7788)
+[![linkedin](Documentation/gcp.png)](https://www.cloudskillsboost.google/public_profiles/3bc66987-f366-4b24-9d43-d7520ca7788/)[**GCP** Badges](https://www.cloudskillsboost.google/public_profiles/3bc66987-f366-4b24-9d43-d7520ca7788)
 
 
 
