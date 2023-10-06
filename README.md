@@ -2,8 +2,8 @@
 
 # ♛ 🇧🇷
 
-<center><a href="https://www.github.com/GenilsonDC" target="_blank" rel="Genilson Profile"><img
-src="https://img.shields.io/github/followers/GenilsonDC?logo=github&style=for-the-badge&color=D6CC99&labelColor=445D48" /></a></center>
+<a align="center" href="https://www.github.com/GenilsonDC" target="_blank" rel="Genilson Profile"><img
+src="https://img.shields.io/github/followers/GenilsonDC?logo=github&style=for-the-badge&color=D6CC99&labelColor=445D48" /></a>
 
 ## Genilson's Skills
 
