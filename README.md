@@ -1,6 +1,5 @@
 ![GenilsonDC Banner](Documentation/GitGenilsonDC.gif)
 
-
 [![linkedin](Documentation/linkedin.png)](https://www.linkedin.com/in/genilson-do-carmo-8a42b89a/) [![instagram](Documentation/instagram.png)](https://www.instagram.com/genilson_carmo/) 
 
 <p>
@@ -22,10 +21,20 @@
 
 <a href="http://www.github.com/GenilsonDC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&hide_border=true&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonDC&layout=donut-vertical&theme=radical&hide_border=true)](https://github.com/GenilsonDC)
-
 <div width="100%" align="center">
+    <a href="https://github.com/GenilsonDC/Flutter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Flutter&title_color=0099ff&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Flutter"/></a>
+    
+     <a href="https://github.com/GenilsonDC/iOS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=iOS&title_color=ff9000&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/iOS"/></a>
+        
+        <a href="https://github.com/GenilsonDC/JavaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=JavaScript&title_color=FFFF00&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/JavaScript"/>
+    
+             <a href="https://github.com/GenilsonDC/TypeScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=TypeScript&title_color=0068DF0&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/TypeScript"/>
+            
     <a href="https://github.com/GenilsonDC/React" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=React&title_color=00ddff&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/React"/></a>
+    
     <a href="https://github.com/GenilsonDC/Python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Python&title_color=F4E869&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Python" /></a>
-    <a href="https://github.com/GenilsonDC/iOS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=iOS&title_color=ff9000&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/iOS"/></a>
-    <a href="https://github.com/GenilsonDC/Flutter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Flutter&title_color=0099ff&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Flutter"/></a></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    
+   
+    
+    </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
