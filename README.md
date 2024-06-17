@@ -22,7 +22,8 @@
     <a href="http://www.github.com/GenilsonDC"  >
     <img src="https://github-readme-stats.vercel.app/api?username=GenilsonDC&show_icons=true&hide=&count_private=true&title_color=d4ff00&text_color=F1EFEF&icon_color=a066ff&bg_color=181824&hide_border=true&border_color=190077" alt="Genilson's GitHub stats" /></a>    
      <a href="http://www.github.com/GenilsonDC" >
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&hide_border=true&border_color=190077&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a" /></a></div><br>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&hide_border=true&border_color=190077&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a" /></a></div><br><br>
+
 
 
 <div width="100%" align="center">
@@ -40,6 +41,6 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Python&title_color=F4E869&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Python" /></a>
     <a href="https://github.com/GenilsonDC/Java" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Java&title_color=EC0000&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Python" /></a>
-    <a href="https://github.com/GenilsonDC/Java" align="right">
+    <a href="https://github.com/GenilsonDC/Dart" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GenilsonDC&repo=Dart&title_color=0040D5&text_color=ffffff&icon_color=FAF2D3&bg_color=181824&hide_border=true&locale=en" target="https://github.com/GenilsonDC/Dart" /></a></div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
