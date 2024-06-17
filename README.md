@@ -18,9 +18,11 @@
 <img src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/arduino.png?raw=true"  alt="Arduino" target="https://github.com/GenilsonDC" /></p>
 
 
-<a href="http://www.github.com/GenilsonDC"><img src="https://github-readme-stats.vercel.app/api?username=GenilsonDC&show_icons=true&hide=&count_private=false&title_color=d4ff00&text_color=F1EFEF&icon_color=a066ff&bg_color=181824&border_color=190077" alt="Genilson's GitHub stats" /></a>
+<div width="100%" align="center">
+    <a href="http://www.github.com/GenilsonDC"  align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GenilsonDC&show_icons=true&hide=&count_private=true&title_color=d4ff00&text_color=F1EFEF&icon_color=a066ff&bg_color=181824&hide_border=true&border_color=190077" alt="Genilson's GitHub stats" /></a>    
+     <a href="http://www.github.com/GenilsonDC" align="right"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&hide_border=true&border_color=190077&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a" /></a></div><br><br><br><br><br><br><br><br><br>
 
-<a href="http://www.github.com/GenilsonDC"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GenilsonDC&stroke=ffffff&background=181824&hide_border=true&ring=6f66f1&fire=ff880a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=0ab9ff&sideLabels=ffffff&dates=ceff0a" /></a>
+
 
 <div width="100%" align="center">
     <a href="https://github.com/GenilsonDC/Flutter" align="left">
